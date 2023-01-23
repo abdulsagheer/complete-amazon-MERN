@@ -19,4 +19,4 @@ The Technology used:-
 
 3. Github-Link:- https://github.com/abdulsagheer/Complete-Amazon-MERN
 
-4. Video-Link:- https://drive.google.com/file/d/1JxwEfby2qCff_6db_BLIjmj-twTs_L07/view?usp=sharing
+4. Video-Link:- https://drive.google.com/file/d/1Yf9Ml_FZNugheBS0lnNB1aIKkcZq_ObB/view?usp=sharing
